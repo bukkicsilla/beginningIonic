@@ -1,0 +1,8 @@
+{
+  "name": "NotableNotes",
+  "app_id": "631904b9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
